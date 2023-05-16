@@ -45,7 +45,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp
 </p>
 <br/>
+
 <h3 align="center">😎 Connect with me 👏</h3>
 <p align="center">
   <a href="https://twitter.com/xxxxxyye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xxxxxyye" height="30" width="40" /></a>
 </p>
+
+<div style="text-align: center;">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyeejj%2Fhit-counter&count_bg=%23F9A0CD&title_bg=%23AAA1A3&icon=&icon_color=%23CC9696&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
